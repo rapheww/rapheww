@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🏫 42 School Projects
+## <table>
+  <tr>
+    <!-- Premier Projet -->
+    <td align="center">
+      <a href="https://github.com/rapheww/libft">
+        <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png" width="150px;" alt="Libft"/>
+        <br />
+        <sub><b>Libft</b></sub>
+      </a>
+    </td>
+    <!-- Deuxième Projet (tu pourras en ajouter d'autres ici) -->
+    <td align="center">
+      <a href="https://github.com/rapheww/ft_printf">
+        <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png" width="150px;" alt="printf"/>
+        <br />
+        <sub><b>Ft_printf</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**rapheww/rapheww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# loading...
